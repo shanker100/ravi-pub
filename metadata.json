@@ -1,0 +1,7 @@
+{
+  "name": "Confluence Voice Assistant",
+  "description": "A real-time voice assistant powered by Gemini 2.5 Live API that can read and summarize Confluence spaces and pages.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
